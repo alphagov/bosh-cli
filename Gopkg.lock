@@ -155,8 +155,8 @@
     "types",
     "types/typesfakes"
   ]
-  revision = "d29aa99b7c301778efea4714252b6ef549089d6b"
-  version = "v0.0.124"
+  revision = "d435e41f5bf3d7e162381f675e985c33530bb616"
+  source = "github.com/alphagov/paas-config-server"
 
 [[projects]]
   branch = "master"
@@ -486,6 +486,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "b4ce68f24eef1c2053f490a4ea8305b55714da34bc96af60215a0dd5d75a745f"
+  inputs-digest = "d86a0b2e4105f917fbe8b2923796fece93a852744527e73ea387de72cc62fbf6"
   solver-name = "gps-cdcl"
   solver-version = 1
